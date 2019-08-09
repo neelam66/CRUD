@@ -1,0 +1,30 @@
+{
+  "orderDetails" :
+  [
+      { 
+          "name" : "Jane Smith",
+          "address" : "123 Maple Street",
+          "city" : "Pretendville",
+          "state" : "NY",
+          "zip"   : "12345" 
+      },
+      { "name" : "John Smith",
+          "address" : "123 Maple Street",
+          "city" : "Pretendville",
+          "state" : "NY",
+          "zip"   : "12345" 
+      },
+      { "name" : "Bob Brown",
+          "address" : "456 Oak Lane",
+          "city" : "Pretendville",
+          "state" : "HI",
+          "zip"   : "98999" 
+      },
+      { "name" : "Alice Brown",
+          "address" : "456 Oak Lane",
+          "city" : "Pretendville",
+          "state" : "HI",
+          "zip"   : "98999" 
+      }
+  ]
+}
